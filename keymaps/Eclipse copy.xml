@@ -1,6 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateProjectToolWindow" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
@@ -14,6 +15,9 @@
   </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
