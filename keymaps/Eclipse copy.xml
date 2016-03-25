@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow" />
@@ -26,6 +27,9 @@
   </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="GuiDesigner.FormSource">
+    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
