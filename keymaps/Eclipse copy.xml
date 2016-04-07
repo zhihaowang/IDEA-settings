@@ -3,6 +3,7 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="ActivateRunToolWindow" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
