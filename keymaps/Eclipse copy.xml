@@ -3,6 +3,7 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="ActivateRunToolWindow" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
@@ -27,6 +28,9 @@
   </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="GuiDesigner.FormSource">
     <keyboard-shortcut first-keystroke="alt 5" />
@@ -62,8 +66,5 @@
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
-  <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
 </keymap>
