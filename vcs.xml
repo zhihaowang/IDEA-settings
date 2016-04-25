@@ -14,6 +14,10 @@
           <option name="url" value="http://git.oschina.net" />
           <option name="userName" value="wangzhihao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="wangzhihaos@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\BCOP-IDEA" />
