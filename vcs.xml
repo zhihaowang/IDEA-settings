@@ -18,6 +18,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="wangzhihaos@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.254.4.35" />
+          <option name="userName" value="wangzhihao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\BCOP-IDEA" />
