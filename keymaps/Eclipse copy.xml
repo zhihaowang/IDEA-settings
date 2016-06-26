@@ -26,6 +26,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
@@ -39,10 +42,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="ProjectViewChangeView" />
   <action id="RecentFiles" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="SelectIn" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />
@@ -67,4 +72,8 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="WebOpenInAction" />
 </keymap>
