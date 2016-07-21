@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom" />
+    <option name="FILE_MASK" value="web.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +17,7 @@
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.class</mask>
       <mask>*</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
+      <mask>web.xml</mask>
     </recentFileMasks>
   </component>
 </application>
