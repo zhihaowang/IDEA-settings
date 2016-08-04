@@ -16,7 +16,6 @@
       <mask>*.mxml</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.class</mask>
       <mask>*</mask>
-      <mask>web.xml</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
     </recentFileMasks>
   </component>
