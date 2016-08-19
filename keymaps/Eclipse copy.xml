@@ -20,6 +20,9 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
@@ -46,6 +49,7 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="ProjectViewChangeView" />
+  <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt 4" />
@@ -75,6 +79,9 @@
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
