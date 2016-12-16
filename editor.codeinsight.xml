@@ -5,6 +5,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
