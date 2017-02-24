@@ -3,7 +3,7 @@
     <option name="customScope" value="Module 'op-console-openstack'" />
     <option name="defaultScopeName" value="Module 'op-console-openstack'" />
     <option name="SEARCH_SCOPE" value="Module 'op-console-openstack'" />
-    <option name="FILE_MASK" value="*.jsp,*.java,*.config,*.properties,*.xml,*.pom" />
+    <option name="FILE_MASK" value="*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,8 +16,8 @@
       <mask>*.mxml</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.class</mask>
       <mask>*</mask>
-      <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
       <mask>*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
+      <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
     </recentFileMasks>
   </component>
 </application>
