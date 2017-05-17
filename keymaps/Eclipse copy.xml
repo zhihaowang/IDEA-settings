@@ -67,9 +67,7 @@
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="SelectIn" />
-  <action id="ShowContent">
-    <keyboard-shortcut first-keystroke="ctrl f6" />
-  </action>
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />
@@ -90,9 +88,13 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="TabList">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
