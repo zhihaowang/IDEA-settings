@@ -63,6 +63,7 @@
   <action id="ProjectViewChangeView" />
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
+  <action id="Resume" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
