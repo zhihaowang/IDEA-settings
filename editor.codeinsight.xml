@@ -3,6 +3,12 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />

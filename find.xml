@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '[cloudmaster-security] - ...\bcop_admin_common\cloudmaster-security\pom.xml'" />
+    <option name="defaultScopeName" value="File '[cloudmaster-security] - ...\bcop_admin_common\cloudmaster-security\pom.xml'" />
+    <option name="SEARCH_SCOPE" value="File '[cloudmaster-security] - ...\bcop_admin_common\cloudmaster-security\pom.xml'" />
     <option name="FILE_MASK" value="*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -16,6 +16,8 @@
       <mask>*.mxml</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.class</mask>
       <mask>*</mask>
+      <mask>*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
+      <mask>*.java,*.config,*.properties,*.xml,*.pom</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
     </recentFileMasks>
   </component>
