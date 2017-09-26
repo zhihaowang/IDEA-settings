@@ -1,79 +1,28 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
-  <action id="ActivateProjectToolWindow" />
-  <action id="ActivateRunToolWindow" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="CloseActiveTab" />
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="Cmd.RunCmdScript">
-    <keyboard-shortcut first-keystroke="f9" />
-  </action>
-  <action id="CollapseAll">
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
-    <keyboard-shortcut first-keystroke="ctrl minus" />
-    <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
-  <action id="Debugger.AddToWatch">
-    <keyboard-shortcut first-keystroke="shift alt w" />
-  </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f12" />
-  </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift alt j" />
-  </action>
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
-  <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
-  </action>
-  <action id="Git.Fetch">
-    <keyboard-shortcut first-keystroke="alt f2" />
-  </action>
-  <action id="Git.Menu">
-    <keyboard-shortcut first-keystroke="alt back_quote" />
-  </action>
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
-  <action id="GuiDesigner.FormSource">
-    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
-  <action id="ProjectViewChangeView" />
-  <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="f8" />
-  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
-  <action id="SelectIn" />
-  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />
@@ -94,20 +43,10 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="TabList">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
-  <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="ctrl f8" />
-  </action>
-  <action id="UsageView.ShowRecentFindUsages" />
-  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="WebOpenInAction" />
-  <action id="tasks.close" />
 </keymap>
