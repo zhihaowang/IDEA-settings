@@ -1,3 +1,3 @@
 <application>
-  <component name="GerritSettings" Login="wangzhihao" Host="http://gerrit.cmss.com" ListAllChanges="true" AutomaticRefresh="true" RefreshTimeout="3" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="true" />
+  <component name="GerritSettings" Login="wangzhihao" Host="http://gerrit.cmss.com" ListAllChanges="true" AutomaticRefresh="false" RefreshTimeout="6" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="true" ShowTopicColumn="false" ShowProjectColumn="AUTO" />
 </application>
