@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom" />
+    <option name="FILE_MASK" value="*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.sh" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,6 +21,10 @@
       <mask>*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
       <mask>*.java,*.config,*.properties,*.xml,*.pom</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
+      <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,</mask>
+      <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*</mask>
+      <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.</mask>
+      <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
