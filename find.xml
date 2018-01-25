@@ -8,13 +8,11 @@
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.class</mask>
-      <mask>*</mask>
       <mask>*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
       <mask>*.java,*.config,*.properties,*.xml,*.pom</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom</mask>
@@ -23,6 +21,18 @@
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.</mask>
       <mask>*.js,*.jsp,*.java,*.config,*.properties,*.xml,*.pom,*.sh</mask>
       <mask>*.js,*.jsp</mask>
+      <mask>/province</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.java,</mask>
+      <mask>*.java,*m</mask>
+      <mask>*.java,*</mask>
+      <mask>*.java,*.</mask>
+      <mask>*.java,*.js</mask>
+      <mask>*.java,*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
