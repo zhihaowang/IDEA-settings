@@ -6,7 +6,6 @@
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -33,6 +32,7 @@
       <mask>*.java,*.</mask>
       <mask>*.java,*.js</mask>
       <mask>*.java,*.jsp</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
