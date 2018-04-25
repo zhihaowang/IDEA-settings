@@ -24,8 +24,6 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.java,</mask>
       <mask>*.java,*m</mask>
       <mask>*.java,*</mask>
@@ -33,6 +31,8 @@
       <mask>*.java,*.js</mask>
       <mask>*.java,*.jsp</mask>
       <mask>*.jsp</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
