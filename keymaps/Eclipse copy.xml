@@ -7,7 +7,7 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="CheckinFiles">
+  <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="CloseActiveTab" />
