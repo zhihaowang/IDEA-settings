@@ -34,7 +34,7 @@
     <option name="MIGRATED" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\Eaglet\Desktop\disconf" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop/disconf" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
