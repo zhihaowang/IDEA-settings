@@ -1,7 +1,6 @@
 <scheme name="wangzhihao" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Microsoft JhengHei" />
+  <option name="CONSOLE_FONT_NAME" value="Microsoft YaHei UI" />
 </scheme>
